@@ -4,7 +4,7 @@ body
     background-attachment: #1e1f24;
     color:#333;
     text-align: center;
-    font-family:sans-serif;
+    font-family:Arial;
     font: 15px ;
     padding: 0;
     margin: 0;
@@ -29,6 +29,7 @@ body
 #cabecera #tagline
 {
     padding:0 0 0 1em;
+    color: white;
     font-weight: normal;  
     font-size: 0.8em; 
 }
